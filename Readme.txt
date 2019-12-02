@@ -1,0 +1,1 @@
+run main.js and main2.js for tests
